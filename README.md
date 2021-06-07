@@ -5,8 +5,8 @@
 - 🎓 Engenharia de Computação - UFG
 - 📌 Goiânia/GO
 
-"While we teach, we learn."
-- Seneca
+"While we teach, we learn." - Seneca
+
 
 <br/>
 
