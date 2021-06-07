@@ -6,6 +6,7 @@
 - 📌 Goiânia/GO
 
 "While we teach, we learn."
+- Seneca
 
 <br/>
 
