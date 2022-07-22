@@ -2,8 +2,7 @@
 
 
 - 💻 Desenvolvedor de Software
-- 🎓 Engenharia de Computação - UFG
-- 📌 Goiânia/GO
+- 🎓 Engenharia de Computação
 
 
 
@@ -24,11 +23,6 @@
 </div>
   
 ##
-  
-<div>
-  <a href = "mailto:antoniopereira@discente.ufg.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-em%C3%ADlio-pereira-019986136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <br />
 
